@@ -1,0 +1,4 @@
+GetCharCode
+===========
+
+JavaScript CharCode Translator
